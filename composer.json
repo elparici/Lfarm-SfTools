@@ -1,0 +1,11 @@
+{
+
+    "name": "Lfarm/SfTools",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=5.5.9",
+        "symfony/symfony": "3.0.*"
+ 
+    }
+}
+    
