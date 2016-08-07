@@ -1,0 +1,5 @@
+services:
+    lfarmDevCollab.twigFunctions:
+        class: Lfarm\DevCollabBundle\Services\TwigFunctionsService
+        arguments: ~
+
