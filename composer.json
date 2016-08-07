@@ -1,6 +1,6 @@
 {
 
-    "name": "Lfarm/SfTools",
+    "name": "lfarm/sftools",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=5.5.9",
@@ -8,4 +8,3 @@
  
     }
 }
-    
